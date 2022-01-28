@@ -17,7 +17,7 @@ if(currtime>=1 && currtime<=12){
     cssStyle.color = "orange";
 } else{
   greeting="Good night";
-  cssStyle.color = "black";
+  cssStyle.color = "blue";
 }
 
 
